@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm a PhD Student in [Computer Science and Engineering](https://www.cs.washington.edu) at the [University of Washington](https://www.washington.edu). I am advised by [James Fogarty](https://homes.cs.washington.edu/~jfogarty/). My research on personal informatics tools is focused on better supportting data collection and sense-making. More broadly, I'm interested in developing computational and data driven tools to inform and support social and health interventions.
+Hi! I'm a PhD Student in [Computer Science and Engineering](https://www.cs.washington.edu) at the [University of Washington](https://www.washington.edu). I am advised by [James Fogarty](https://homes.cs.washington.edu/~jfogarty/). My research on personal informatics tools is focused on better supporting data collection and sense-making. More broadly, I'm interested in developing computational and data-driven tools to inform and support social and health interventions.
+
+My past research
 
 
 Selected Publications
