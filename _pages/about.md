@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! I'm a PhD Student in [Computer Science and Engineering](https://www.cs.washington.edu) at the [University of Washington](https://www.washington.edu). I am advised by [James Fogarty](https://homes.cs.washington.edu/~jfogarty/). My research on personal informatics tools is focused on better supporting data collection and sense-making. More broadly, I'm interested in developing computational and data-driven tools to inform and support social and health interventions.
 
-I obtained my B.Sc. in [Computer Engineering](http://ce.sharif.edu) from Sharif University of Technology, and M.Sc. degress in [Human-Computer Interaction](https://www.cs.ubc.ca) at the University of British Columbia and [Computer Vision](https://www.sfu.ca/computing.html) at the Simon Fraser University.
+I obtained my B.Sc. in [Computer Engineering](http://ce.sharif.edu) from Sharif University of Technology, and M.Sc. degrees in [Human-Computer Interaction](https://www.cs.ubc.ca) at the University of British Columbia and [Computer Vision](https://www.sfu.ca/computing.html) at the Simon Fraser University.
 
 
 Selected Publications
