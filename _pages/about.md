@@ -21,7 +21,7 @@ Please visit my [DBLP](https://dblp.org/pid/161/7770.html) / [Google Scholar](ht
 
 Morris M., Kuehn K.S., Brown J.S., Nurius P.S., **Sefidgar Y.S.**, Riskin E., Dey A.K., Xu X., Consolvo S., Mankoff J. "College from Home during COVID-19: a Mixed-methods Study of Heterogeneous Experiences", PloS one (under review).
 
-**Sefidgar Y.S.**, Baughan A., Elkin L., Dey A.K., Riskin E., Nurius P., Mankoff J., Morris M. "Understanding the Experience of Unfair Treatment: Considerations and Opportunities for Technology Interventions", Proceedings of ACM Conference on Computer-Supported Cooperative Work (under review).
+**Sefidgar Y.S.**, Baughan A., Elkin L., Dey A.K., Riskin E., Nurius P., Mankoff J., Morris M. "Understanding Experiences of Unfair Treatment: Considerations and Opportunities for Technology Interventions", Proceedings of ACM Conference on Computer-Supported Cooperative Work (under review).
 
 Nurius P., **Sefidgar Y.S.**, Kuehn K.S., Jung J., Zhang H., Figueira O., Dey A.K., Riskin E., Mankoff J. "Distress Among Undergraduates: Marginality, Stressors and Resilience Resources", Journal of American College Health (under review). 
 
