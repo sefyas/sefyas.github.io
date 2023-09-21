@@ -15,15 +15,17 @@ I obtained my B.Sc. in [Computer Engineering](http://ce.sharif.edu) from Sharif 
 
 Selected Publications
 =====
-Please visit my [DBLP](https://dblp.org/pid/161/7770.html) / [Google Scholar](https://scholar.google.com/citations?user=qWEImhMAAAAJ&hl=en&oi=ao) profiles for a full list of my publications.
+Full list of my publications at [DBLP](https://dblp.org/pid/161/7770.html) / [Google Scholar](https://scholar.google.com/citations?user=qWEImhMAAAAJ&hl=en&oi=ao) profiles.
 
-Jörke M., **Sefidgar Y.S.**, Massachi T. Suh J., Ramos G., Czervinski M. "Pearl: A Technology Probe for Machine-Assisted Reflection on Personal Data", International Conference on Intelligence User Interfaces (2023).
+**Sefidgar Y.S.**, Jörke M., Suh J., Saha K., Iqbal S., Ramos G., Czervinski M. "Improving Work-Nonwork Balance with Data- Driven Implementation Intention with Mental Contrasting", Proceedings of ACM Conference on Computer-Supported Cooperative Work (2023).
+
+Jörke M., **Sefidgar Y.S.**, Massachi T. Suh J., Ramos G. "Pearl: A Technology Probe for Machine-Assisted Reflection on Personal Data", International Conference on Intelligence User Interfaces (2023).
 
 Creswell J.D., Tumminia M. J., Price S., **Sefidgar Y.S.**, Cohen S, Ren Y., Brown J., Dey A.K., Dutcher J.M.,
 Villalba D., Mankoff J., Xu X., Creswell K., Doryab A., Mattingly S., Striegel A., Hachen D., Martinez G., Lovett M.C. "Nightly sleep duration predicts grade point average in the first year of college", Proceedings of the National Academy of Sciences of the United States of America (2023) [[DOI]](https://doi.org/10.1073/pnas.2209123120)
 
 
-**Sefidgar Y.S.**, Jörke M., Suh J., Saha K., Iqbal S., Ramos G., Czervinski M. “Lessons Learned for Data-Driven Implementation Intentions with Mental Contrasting”, Extended Abstracts of CHI Conference on Human Factors in Computing Systems (2023). [[DOI]](https://doi.org/10.1145/3544549.3573851)
+**Sefidgar Y.S.**, Jörke M., Suh J., Saha K., Iqbal S., Ramos G., Czervinski M. "Lessons Learned for Data-Driven Implementation Intentions with Mental Contrasting", Extended Abstracts of CHI Conference on Human Factors in Computing Systems (2023). [[DOI]](https://doi.org/10.1145/3544549.3573851)
 
 Morris M., Kuehn K.S., Brown J.S., Nurius P.S., **Sefidgar Y.S.**, Riskin E., Dey A.K., Xu X., Consolvo S., Mankoff J. "College from Home during COVID-19: a Mixed-methods Study of Heterogeneous Experiences", PloS one (2021).
 
@@ -41,8 +43,6 @@ Nurius P., **Sefidgar Y.S.**, Kuehn K.S., Jung J., Zhang H., Figueira O., Dey A.
 
 Upcoming
 =====
-**Sefidgar Y.S.**, Jörke M., Suh J., Saha K., Iqbal S., Ramos G., Czervinski M. "Improving Work-Nonwork Balance with Data- Driven Implementation Intention with Mental Contrasting", Proceedings of ACM Conference on Computer-Supported Cooperative Work (under review).
-
 **Sefidgar Y.S.**, Sharma A., Riskin E., Nurius P., Dey A.K., Mankoff J., Fogarty J., Althoff T. "Submodular Behavior Summarization", Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (in preparation). 
 
 **Sefidgar Y.S.**, Nurius P., Baughan A., Elkin L., Dey A.K., Riskin E., Mankoff J., Morris M. "Considerations and Opportunities for Technologies to Support Students Experiencing Everyday Discrimination", ACM Transactions on Computer-Human Interaction (in preparation).
