@@ -17,9 +17,11 @@ Selected Publications
 =====
 Full list of my publications at [DBLP](https://dblp.org/pid/161/7770.html) / [Google Scholar](https://scholar.google.com/citations?user=qWEImhMAAAAJ&hl=en&oi=ao) profiles.
 
-**Sefidgar Y.S.**, Jörke M., Suh J., Saha K., Iqbal S., Ramos G., Czervinski M. "Improving Work-Nonwork Balance with Data- Driven Implementation Intention with Mental Contrasting", Proceedings of ACM Conference on Computer-Supported Cooperative Work (2023).
+**Sefidgar Y.S.**, Castellio C., Chopra S., Schroeder J., Ryu H., Jones T., Marinova N., Cole A., Munson S., Fogarty J.  "MigraineTracker: Examining Patient Experiences with Goal-Directed Self-Tracking for a Chronic Health Condition", CHI’24 Conference on Human Factors in Computing Systems. [[DOI]](https://doi.org/10.1145/3613904.3642075)
 
-Jörke M., **Sefidgar Y.S.**, Massachi T. Suh J., Ramos G. "Pearl: A Technology Probe for Machine-Assisted Reflection on Personal Data", International Conference on Intelligence User Interfaces (2023).
+**Sefidgar Y.S.**, Jörke M., Suh J., Saha K., Iqbal S., Ramos G., Czervinski M. "Improving Work-Nonwork Balance with Data- Driven Implementation Intention with Mental Contrasting", Proceedings of ACM Conference on Computer-Supported Cooperative Work (2023).[[DOI]](https://doi.org/10.1145/3637351)
+
+Jörke M., **Sefidgar Y.S.**, Massachi T. Suh J., Ramos G. "Pearl: A Technology Probe for Machine-Assisted Reflection on Personal Data", International Conference on Intelligence User Interfaces (2023).[[DOI]](https://doi.org/10.1145/3544549.3573851)
 
 Creswell J.D., Tumminia M. J., Price S., **Sefidgar Y.S.**, Cohen S, Ren Y., Brown J., Dey A.K., Dutcher J.M.,
 Villalba D., Mankoff J., Xu X., Creswell K., Doryab A., Mattingly S., Striegel A., Hachen D., Martinez G., Lovett M.C. "Nightly sleep duration predicts grade point average in the first year of college", Proceedings of the National Academy of Sciences of the United States of America (2023) [[DOI]](https://doi.org/10.1073/pnas.2209123120)
