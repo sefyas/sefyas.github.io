@@ -29,9 +29,9 @@ Villalba D., Mankoff J., Xu X., Creswell K., Doryab A., Mattingly S., Striegel A
 
 **Sefidgar Y.S.**, Jörke M., Suh J., Saha K., Iqbal S., Ramos G., Czervinski M. "Lessons Learned for Data-Driven Implementation Intentions with Mental Contrasting", Extended Abstracts of CHI Conference on Human Factors in Computing Systems (2023). [[DOI]](https://doi.org/10.1145/3544549.3573851)
 
-Morris M., Kuehn K.S., Brown J.S., Nurius P.S., **Sefidgar Y.S.**, Riskin E., Dey A.K., Xu X., Consolvo S., Mankoff J. "College from Home during COVID-19: a Mixed-methods Study of Heterogeneous Experiences", PloS one (2021).
+Morris M., Kuehn K.S., Brown J.S., Nurius P.S., **Sefidgar Y.S.**, Riskin E., Dey A.K., Xu X., Consolvo S., Mankoff J. "College from Home during COVID-19: a Mixed-methods Study of Heterogeneous Experiences", PloS one (2021). [[DOI]](https://doi.org/10.1371/journal.pone.0251580)
 
-Nurius P., **Sefidgar Y.S.**, Kuehn K.S., Jung J., Zhang H., Figueira O., Dey A.K., Riskin E., Mankoff J. "Distress Among Undergraduates: Marginality, Stressors and Resilience Resources", Journal of American College Health (2021). 
+Nurius P., **Sefidgar Y.S.**, Kuehn K.S., Jung J., Zhang H., Figueira O., Dey A.K., Riskin E., Mankoff J. "Distress Among Undergraduates: Marginality, Stressors and Resilience Resources", Journal of American College Health (2021). [[DOI]](https://doi.org/10.1080/07448481.2021.1935969)
 
 **Sefidgar Y.S.**, Seo W., Kuehn K.S., Althoff T., Browning A., Riskin E., Nurius P., Dey A.K., Mankoff J. "Passively-sensed Behavioral Correlates of Discrimination Events in College Students", Proceedings of ACM Conference on Computer-Supported Cooperative Work (2019). [[DOI]](https://doi.org/10.1145/3359216) [[PDF]](files/papers/cscw19-discrimination.pdf)
 
