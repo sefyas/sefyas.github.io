@@ -18,7 +18,7 @@ Selected Publications
 =====
 Full list of my publications at [DBLP](https://dblp.org/pid/161/7770.html) / [Google Scholar](https://scholar.google.com/citations?user=qWEImhMAAAAJ&hl=en&oi=ao) profiles.
 
-**Sefidgar Y.S.**, Castellio C., Chopra S., Schroeder J., Ryu H., Jones T., Marinova N., Cole A., Munson S., Fogarty J.  "MigraineTracker: Examining Patient Experiences with Goal-Directed Self-Tracking for a Chronic Health Condition", CHI’24 Conference on Human Factors in Computing Systems (2024). [[DOI]](https://doi.org/10.1145/3613904.3642075)
+**Sefidgar Y.S.**, Castellio C., Chopra S., Schroeder J., Ryu H., Jones T., Marinova N., Cole A., Munson S., Fogarty J.  "MigraineTracker: Examining Patient Experiences with Goal-Directed Self-Tracking for a Chronic Health Condition", CHI’24 Conference on Human Factors in Computing Systems (2024). [[DOI]](https://doi.org/10.1145/3613904.3642075) <span style="color:blue">(Best Paper)</span>
 
 **Sefidgar Y.S.**, Jörke M., Suh J., Saha K., Iqbal S., Ramos G., Czerwinski M. "Improving Work-Nonwork Balance with Data- Driven Implementation Intention with Mental Contrasting", Proceedings of ACM Conference on Computer-Supported Cooperative Work (2023).[[DOI]](https://doi.org/10.1145/3637351)
 
