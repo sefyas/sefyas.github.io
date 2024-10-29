@@ -46,4 +46,4 @@ Upcoming
 =====
 **Sefidgar Y.S.**, Sharma A., Riskin E., Nurius P., Dey A.K., Mankoff J., Fogarty J., Althoff T. "Submodular Behavior Summarization", Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (in preparation). 
 
-**Sefidgar Y.S.**, Nurius P., Baughan A., Elkin L., Dey A.K., Riskin E., Mankoff J., Morris M. "Considerations and Opportunities for Technologies to Support Students Experiencing Everyday Discrimination", ACM Transactions on Computer-Human Interaction (in preparation).
+**Sefidgar Y.S.**, Nurius P., Baughan A., Elkin L., Dey A.K., Riskin E., Mankoff J., Morris M. "Considerations and Opportunities for Technologies to Support Students Experiencing Everyday Discrimination", ACM Transactions on Computer-Human Interaction (in preparation). [[arXiv]](https://arxiv.org/abs/2111.13266)
